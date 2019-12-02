@@ -1,5 +1,5 @@
 # Update versions as needed.
-FROM lachlanevenson/k8s-helm:v2.14.1
+FROM lachlanevenson/k8s-helm:v3.0.0
 FROM lachlanevenson/k8s-kubectl:v1.15.0
 
 # We build our own base awscli alpine image becase there is not yet an official
