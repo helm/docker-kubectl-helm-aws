@@ -1,4 +1,4 @@
-# Update versions as needed.
+# Update versions as needed me.
 FROM lachlanevenson/k8s-helm:v2.14.1
 FROM lachlanevenson/k8s-kubectl:v1.15.0
 
